@@ -1,0 +1,24 @@
+{
+  "name": "team-dashboard",
+  "version": "1.0.0",
+  "description": "Team Dashboard is an application where you answer a few questions and a dashboard with all the necessary information is generated for you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasmin-io/team-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasmin-io/team-dashboard/issues"
+  },
+  "homepage": "https://github.com/yasmin-io/team-dashboard#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.5.1"
+  }
+}
