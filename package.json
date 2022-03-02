@@ -4,7 +4,7 @@
   "description": "Team Dashboard is an application where you answer a few questions and a dashboard with all the necessary information is generated for you.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --verbose test/*"
   },
   "repository": {
     "type": "git",
