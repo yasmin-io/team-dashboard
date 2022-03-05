@@ -33,7 +33,7 @@ I have created a walkthrough video that will help you understand the full functi
 Link to Video:
 
 When the application runs, you are presented with these questions:
-![Example]()
+![Example](https://github.com/yasmin-io/team-dashboard/blob/ce94693db18dd54ae278abb74a0fd9bf3a2c2595/images/Example.png)
 
 ## READ BEFORE USE!!
 
