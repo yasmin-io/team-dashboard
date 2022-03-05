@@ -1,0 +1,17 @@
+header {
+  text-align: center;
+  background-color: brown;
+  color: white;
+  font-weight: bold;
+  padding: 5%;
+  margin-bottom: 2%;
+  font-size: 30px;
+}
+
+main {
+  margin: 10%;
+}
+
+.fontsize {
+  font-size: 16px;
+}
