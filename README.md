@@ -33,6 +33,7 @@ I have created a walkthrough video that will help you understand the full functi
 Link to Video:
 
 When the application runs, you are presented with these questions:
+![Example]()
 
 ## READ BEFORE USE!!
 
