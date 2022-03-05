@@ -39,26 +39,12 @@ const generateTeamMembersString = (arrayOfTeamMembers) => {
    `.concat(finalString);
   }
 
-  // if (Engineer) {
-  //   return "An Engineer was chosen".concat(finalString);
-  // }
-
-  // if (Intern) {
-  //   return "An Intern was chosen".concat(finalString);
-  // }
-
   return finalString;
 };
 
 // TODO:
-// Find a way to insert text above into not re writing below.
-// Add extra bootstrap and information and create more complicated strings
 // Finish Other Tests
-//
-// Loop over the array of team members??
-// If manager -> generate one type of string literal for that manager (so on for each employee)
-//Each member string literal -> concatenate with string on line 4. Do I do a ForEach? What kind of loop?
-//How Do I traverse and get information im looking for?
+// Loop over the array of team members and insert the corresponding strings into the exported string
 
 //Function to export to index.js and also call function above to generate the html body
 module.exports = (arrayOfTeamMembers) => {

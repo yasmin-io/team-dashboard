@@ -55,8 +55,6 @@ function init() {
   }
 
   function createEngineer() {
-    // TODO: Ask all the questions to get the Engineer details, create a engineer using Engineer class, add to team member array...
-
     // We invoke the inquirer prompt and create an object array of the corresponding questions to the employee
     inquirer
       .prompt([
@@ -98,8 +96,6 @@ function init() {
   }
 
   function createIntern() {
-    // TODO: Ask all the questions to get the intern details, create a intern using Intern class, add to team member array...
-    console.log("creating intern....");
     // We invoke the inquirer prompt and create an object array of the corresponding questions to the employee
     // intern’s name, ID, email, and school,
     inquirer
